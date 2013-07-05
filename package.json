@@ -1,7 +1,7 @@
 {
     "name": "node-jso",
     "description": "This is the OAuth JSO library wrapped up for node",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "license": "Dual-licenced with The GNU Lesser General Public License, version 2.1 (LGPL-2.1) and version 3.0",
     "author": {
         "name" : "Matt Mullens",
