@@ -1,4 +1,4 @@
-# node-jso  [![Build Status](https://travis-ci.org/hoonto/node-jso?branch=master)](https://travis-ci.org/hoonto/node-jso)
+# node-jso  [![Build Status](https://travis-ci.org/hoonto/node-jso.png)](https://travis-ci.org/hoonto/node-jso)
 
 > node-jso wraps up the [JSO OAuth Library](https://github.com/andreassolberg/jso) and provides it to Node.js.
 
